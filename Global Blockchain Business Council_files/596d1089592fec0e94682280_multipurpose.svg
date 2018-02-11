@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>E3E081E3-1A46-4A34-BF52-F8014818B95C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="34" cy="34" r="34"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="68" height="68" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-1366-v1--click" transform="translate(-728.000000, -2114.000000)">
+            <g id="Why-Blockchain" transform="translate(0.000000, 1566.000000)">
+                <rect id="Bg" opacity="0.799999952" x="0" y="0" width="1366" height="770"></rect>
+                <g id="Multipurpose-Usage" transform="translate(710.000000, 530.000000)">
+                    <g id="Icon">
+                        <use id="Oval-2" stroke="#ABBCBF" mask="url(#mask-2)" stroke-width="4" opacity="0.182952425" xlink:href="#path-1"></use>
+                        <path d="M23.576836,19.999926 L43.8718739,19.999926 C44.1904507,19.999926 44.4490058,19.7759426 44.4490058,19.499963 C44.4490058,19.2239834 44.1904507,19 43.8718739,19 L23.576836,19 C23.2590287,19 22.9997041,19.2239834 22.9997041,19.499963 C22.9997041,19.7759426 23.2590287,19.999926 23.576836,19.999926 L23.576836,19.999926 Z M48.4206484,27 L19.577132,27 C19.2585551,27 19,27.2296258 19,27.5125577 L19,46.4874423 C19,46.7703742 19.2585551,47 19.577132,47 L48.4206484,47 C48.7392253,47 48.9977804,46.7703742 48.9977804,46.4874423 L48.9977804,27.5125577 C48.9977804,27.2296258 48.7392253,27 48.4206484,27 L48.4206484,27 Z M20,28 L48,28 L48,46 L20,46 L20,28 Z M46.1481849,23.9996301 C46.4675313,23.9996301 46.7245474,23.7756466 46.7245474,23.4996671 C46.7245474,23.2236875 46.4675313,22.9997041 46.1481849,22.9997041 L34.8437608,22.9997041 L21.576984,22.9997041 C21.2576376,22.9997041 20.999852,23.2236875 20.999852,23.4996671 C20.999852,23.7756466 21.2576376,23.9996301 21.576984,23.9996301 L46.1481849,23.9996301 Z" id="Fill-135" stroke="#2CD992" fill="#2CD992"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

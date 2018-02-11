@@ -1,0 +1,852 @@
+<div class="interactive-map-div">
+                    <img src="./Global Blockchain Business Council_files/596d1089592fec0e9468225b_bigstock-World-Map-5526818-.jpg" width="1169" srcset="https://uploads-ssl.webflow.com/596d1089592fec0e94682231/596d1089592fec0e9468225b_bigstock-World-Map-5526818--p-800.jpeg 800w, https://uploads-ssl.webflow.com/596d1089592fec0e94682231/596d1089592fec0e9468225b_bigstock-World-Map-5526818--p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/596d1089592fec0e94682231/596d1089592fec0e9468225b_bigstock-World-Map-5526818--p-1600.jpeg 1600w, https://uploads-ssl.webflow.com/596d1089592fec0e94682231/596d1089592fec0e9468225b_bigstock-World-Map-5526818-.jpg 1897w"
+                        sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 100vw" class="image-6">
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Chamber of Digital Commerce</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; promotion</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Washington, D.C., USA</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Chamber of Digital Commerce aims to promote the acceptance and use of digital assets
+                                        and blockchain-based technologies. Through education, advocacy and working closely
+                                        with policymakers, regulatory agencies and industries, they work to develop an environment
+                                        that fosters innovation, jobs and investment. Their initiatives include participating
+                                        in the Blockchain Alliance (a public-private forum to combat criminal activity on
+                                        the blockchain), Blockchain Intellectual Property Council, D.C., and the Blockchain
+                                        Center.
+                                    </a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://digitalchamber.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot san-francisco" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Hyperledger</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">software development and standardization</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">San Francisco, California, USA</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Hyperledger is an open source collaborative effort created to advance cross-industry
+                                        blockchain technologies. It is a global collaboration, hosted by The Linux Foundation,
+                                        including leaders in finance, banking, Internet of Things (IoT), supply chains, manufacturing
+                                        and technology. Hyperledger provides maintainers and their communities direct access
+                                        to one of the deepest open source brain trusts in the world to help with everything
+                                        from licensing to governance to release management to ecosystem development. They
+                                        let companies focus on developing the technology, confident that the legal, technical
+                                        and organizational infrastructure their project need for the long run will be in
+                                        place.Hyperledger focuses on Finance and Healthcare industries specifically; they
+                                        also host hackathons.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.hyperledger.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot new-york" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">R3 Consortium</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">software development and standardization; global coordination</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">1370 Broadway, Ste 1050 New York, NY 10018</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">R3 is a consortium of over 80 financial institutions in the establishment of an open,
+                                        enterprise-grade, shared platform to record financial events and execute smart contract
+                                        logic. R3 is building a new distributed ledger platform, Corda – which is the outcome
+                                        of over two years of intense research and development by R3 and its consortium of
+                                        financial institutions. It is an open-source distributed ledger platform designed
+                                        to record, manage and automate legal agreements between businesses. With Corda, participants
+                                        can transact without the need for central authorities creating a world of frictionless
+                                        commerce. R3 operates a consortium of the world’s largest financial institutions
+                                        that have guided and contributed to the development of Corda.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.r3cev.com/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot shenzhen-china" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Financial Blockchain Shenzhen Consortium (FBSC)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Shenzhen, China</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Financial Blockchain Shenzhen Consortium (FBSC) is a business alliance of finance
+                                        and tech firms to collectively explore applications of the blockchain technology
+                                        in China. The consortium was built for information exchange and testing various financial
+                                        blockchain use cases. The new alliance pursues two major goals: First, the consortium
+                                        will serve as a communication tool for companies and a platform for information sharing
+                                        related to blockchain studies. Second, company members will perform joint research
+                                        on blockchain applications and create collective projects for its testing in the
+                                        financial sphere. Special projects include the development of a prototype of a blockchain
+                                        platform for securities trading and exploration of related services for credit, digital
+                                        asset registry and invoice management. Focused exclusively on the financial sector,
+                                        the general areas of possible blockchain implementation that are of interest to these
+                                        companies include capital markets, securities exchange, trading platforms, life insurance,
+                                        and banking.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot st-petersburg-russia" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Russia Blockchain Consortium</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">St. Petersburg, Russia</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Russia Blockchain Consortium was created for joint exploration and implementation
+                                        of blockchain technology and its derivatives. The Consortium represents Russia’s
+                                        first collaborative platform across innovative and distributed technologies. The
+                                        activities of the Consortium’s members will focus on the creation and implementation
+                                        of the most advanced technological solutions in the field of financial services.
+                                        The Consortium’s activities spread over technological, regulatory, practical and
+                                        communicative purposes. Members will be engaged in joint development and testing
+                                        of prototypes, standardization of technology as efforts to open doors for the technology
+                                        for market participants. In addition, an important part of the Consortium’s activities
+                                        will be technological harmonization of the Russian blockchain movement with the global
+                                        one, launching an open communicative platform for the market participants and the
+                                        regulator, in hoped of raising the level of public knowledge and confidence in the
+                                        financial services based on blockchain.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot dubai" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Global Blockchain Council (Dubai)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">global coordination</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Dubai, UAE</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Global Blockchain Council (GBC) of Dubai’s goal is to explore and discuss current
+                                        and future applications of blockchain and organize transactions through the Blockchain
+                                        platform. The organization aims to enhance the UAE’s position as a leading center
+                                        for innovation and the knowledge economy. The Council will help UAE authorities and
+                                        corporations better understand blockchain technology and consider its regulatory
+                                        implications, while conducting pilot projects to test the readiness of markets to
+                                        adopt digital currencies. The Council will highlight the implications of this innovation
+                                        on the future of the business and financial sectors, and its role in facilitating
+                                        transactions within the various sectors of financial and non-financial sectors in
+                                        order to increase efficiency and reliability at all levels. The council’s membership
+                                        consists of government entities, international companies, leading UAE banks, and
+                                        international Blockchain technology firms.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.dubaifuture.gov.ae/our-initiatives/global-blockchain-council/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot new-york digital-currency-council" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Digital Currency Council</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; legal advice</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">636 6th Ave New York, NY 10011</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Digital Currency Council (DCC) trains, certifies, and connects leaders in the digital
+                                        currency economy. The DCC is a professional association for lawyers, accountants,
+                                        and financial professionals in the digital currency economy, providing training,
+                                        certification, and ongoing support to professionals building their practices in or
+                                        around digital currencies. With over 1500 members in 90 countries, the DCC is the
+                                        association of professionals in the digital currency economy. It is a venture-backed
+                                        company. There is a need for a training program to efficiently bring professionals
+                                        up to the requisite level of knowledge for a professional advisor and the DCC helps
+                                        financial advisors, wealth managers, accountants and lawyers get up to speed about
+                                        digital currencies efficiently to be better prepared to answer their clients questions.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.digitalcurrencycouncil.com/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot dc coin-center" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Coin Center</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">718 7th St NW, Washington, DC 20001</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Based in Washington, D.C., Coin Center is the leading non-profit research and advocacy
+                                        center focused on the public policy issues facing cryptocurrency and decentralized
+                                        computing technologies like Bitcoin and Ethereum. Their mission is to build a better
+                                        understanding of these technologies and to promote a regulatory climate that preserves
+                                        the freedom to innovate using permissionless blockchain technologies. They do this
+                                        in three ways: educate policymakers and the media about cryptocurrency technology;
+                                        engage in policy research to develop smart regulatory approaches to questions raised
+                                        by the technology; and advocate for those solutions in order to keep cryptocurrency
+                                        networks open, decentralized, and permissionless.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://coincenter.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot london" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">FIX Trading Community: Digital Currency/Blockchain Working Group</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">coordination of development efforts</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">London, England</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The mission of FIX Trading Digital Currency Working Group is to identify, analyze and
+                                        define use cases and integration points for digital currency and distributed ledger
+                                        technologies across the spectrum of capital markets requirements. The organization
+                                        also aims to recommend best practices for FIX implementation and usage of this emerging
+                                        technology in financial markets.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.fixtradingcommunity.org/pg/workinggroup/2410076/digital-currencyblockchain-working-group/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot toronto-canada" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Bitcoin Alliance of Canada (BAC)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (Bitcoin)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Toronto, Canada</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Designed to unite bitcoin businesses and users across Canada, the Bitcoin Alliance of
+                                        Canada (BAC) provides resources and outreach services for bitcoin members. The organization
+                                        has a track record of hosting large events, engaging with policy makers, speaking
+                                        to industry associations, and being on call for media and general inquiries.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://blockchainassociation.ca/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot bitcoin-foundation" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Bitcoin Foundation</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Washington, D.C., USA</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Bitcoin Foundation coordinates the efforts of members of the Bitcoin community, helps
+                                        to create awareness of the benefits of Bitcoin, and educates on how to use Bitcoin
+                                        and related technology requirements for technologists, regulators, themedia, and
+                                        the rest of the world. Their mission is to see Bitcoin as a globally accepted method
+                                        of exchanging and storing value, operating without the need for third parties. Affiliates
+                                        from different countries are able to use this support system at the Bitcoin Foundation
+                                        to establish the necessary infrastructure, credibility, and presence to lead localized
+                                        educational, media, and outreach efforts regarding bitcoin.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://bitcoinfoundation.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot baft" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">BAFT - Financial Technology and Innovation Initiative</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">1120 Connecticut Avenue, NW Washington, DC 20036</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">BAFT is the association for organizations actively engaged in international transaction
+                                        banking. It serves as the leading forum for bringing the financial community and
+                                        its suppliers together to collaborate on shaping market practices, influencing regulation
+                                        and legislation through global advocacy, developing and adapting new and existing
+                                        instruments that facilitate the settlements of products and service offerings for
+                                        clients, providing education and training and contributing to the safety and soundness
+                                        of the global financial system. The Financial Technology and Innovation Initiative
+                                        is made up of a group of bankers, importers, exporters, brokers, providers and suppliers,
+                                        and other investors. It is BAFT’s effort to educate investors and traders about various
+                                        emerging technologies such as Bitcoin, distributed ledgers, and virtual currencies.
+                                        The association’s efforts hope to help businesses and investors address blockchain
+                                        methodology and regulations within government agencies and the banking industry.
+                                        Their goal is to create webinars, tutorials, hold Forums, and to generally understand
+                                        blockchain technology and its impact on the future of finance.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.baft.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot london ukdca" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">UK Digital Currency Association(UKDCA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain &amp; Bitcoin)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">76 Wardour St Soho, London W1F 0UR UK</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The United Kingdom Digital Currency Association (UKDCA) promotes the use and development
+                                        of digital currency technologies in the UK, through education, lobbying and public
+                                        engagement. It provides a united public voice for the digital currency community,
+                                        engages with government and regulators in order to build a world-leading regulatory
+                                        environment for the creation of jobs and growth in this emerging field, promotes
+                                        development and dissemination of best-practices by digital currency businesses and
+                                        works to counter illegitimate uses of the technology. The challenges faced by digital
+                                        currency users and businesses are always at the forefront of the UKDCA’s actions.
+                                        By bringing all interested parties together into industry specific working groups,
+                                        they aim to achieve more for the digital currency community through coordinated and
+                                        collaborative efforts. The UKDCA is highly active in lobbying policymakers and regulators.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.ukdca.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot australia" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Bitcoin Association of Australia (BAA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; promotion</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Australia</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Bitcoin Association of Australia (BAA)is Australia's not-for-profit association dedicated
+                                        to the standardization, protection, and promotion of Blockchain and digital currency
+                                        in the region. BAA’s objectives include: assisting in the funding and development
+                                        of Bitcoin infrastructure; making Bitcoin more respected, trusted and useful to people
+                                        in Australia and worldwide; maintaining, improving and legally protecting the integrity
+                                        of the protocols and the reputation of Bitcoin; educating the general public, business
+                                        and institutions about Bitcoin by speaking publicly on behalf of the community.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://bitcoin.asn.au/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot singapore" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Association of Crypto-Currency Enterprises and Start-ups, Singapore(ACCESS)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain &amp; Bitcoin)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Singapore</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">ACCESS envisions Singapore as a premier global hub for businesses driven by digital currencies
+                                        and blockchain technologies. They focus on advocacy, engagement, and education. ACCESS
+                                        supports the efforts of their members by partnering with other organizations to promote
+                                        their members interests across multiple industries. They foster an open and clear
+                                        dialogue between Singapore cryptocurrency and blockchain businesses, larger society,
+                                        and regulators. In doing so, they aim to provide a united public voice and platform
+                                        for the Singapore cryptocurrency and blockchain communities, allowing all of us to
+                                        better engage with private as well as governmental entities. They also run seminars
+                                        and workshops to educate the public about cryptocurrencies and blockchain technologies.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.access-sg.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot montreal-canada" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Bitcoin Embassy</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">incubation, education &amp; promotion</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">3485 St Laurent Blvd, Montreal, QC H2X 2T6, Canada</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Bitcoin Embassy is a physical space dedicated to blockchain technology and cryptocurrency.
+                                        A three-story building located in the heart of Montreal, the Embassy serves as home
+                                        for one of the world’s leading communities of Bitcoin entrepreneurs, developers,
+                                        professionals and experts. They operate one of the world’s most active non-profit
+                                        organizations dedicated to Bitcoin education, lobbying and advocacy. Acting as an
+                                        incubator for disruptive startups and financial services providers in the blockchain
+                                        technology industry, they help Bitcoin startups and guide investors through the blockchain
+                                        ecosystem. The Embassy is an open concept replicated internationally.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://bitcoinembassy.ca/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot toronto-canada decentral" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Decentral</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">incubation &amp; advice</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">119 Spadina Ave, Toronto, ON M5V, Canada</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Decentral is an innovation hub focused on disruptive and decentralized technologies headquartered
+                                        in Toronto. The organization is focused on software development and offers Toronto’s
+                                        first two-way Bitcoin ATM. Decentral is spearheading a strategic effort to transform
+                                        Canada into a global force for innovation. They are Toronto’s first hub for Ethereum,
+                                        Bitcoin and blockchain technologies, bringing together enthusiasts in blockchain,
+                                        fintech, cryptocurrencies and decentralized technologies. Decentral has hosted over
+                                        100 events and continues to be a source for networking and information through meet
+                                        ups and a 24-hour news dashboard, Decentral.TV. The organization has been called
+                                        “Toronto’s home to tech startups.”</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://decentral.ca/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot san-francisco ibrea" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">International Blockchain Real Estate Association (IBREA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; promotion (real estate)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">San Francisco, California, USA</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">A nonprofit, member-focused advocacy, educational, and trade organization dedicated to
+                                        implementing Bitcoin and other blockchain technology in real estate. Their initiatives
+                                        include: Develop a universal property registry and title platform that is open source,
+                                        non-profit, secure, and scalable; Develop a universal digital deed (Token) platform
+                                        that is open source, non-profit, secure, and scalable; Create a "How to use bitcoin
+                                        with real estate right now" resource and begin a database for organizing the uses
+                                        and people, companies, tools, instructions, etc. that it takes to use them; Promote
+                                        individual real estate transactions to occur using Bitcoin in any practical role;
+                                        Bring together professionals including brokers, investors, entrepreneurs, developers,
+                                        government officials, escrow and title officers; Set real estate industry standards.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.ibtcrea.org/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot shanghai-china" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Wanxiang Blockchain Labs</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">software development &amp; promotion</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">99, West Lujiazui Road, Pudong, Shanghai, China</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Wangxiang blockchain labs is a research institution focused on blockchain technology.
+                                        The lab gathers experts in the field to work on technological development, business
+                                        applications, industrial strategies and other aspects of blockchain technology. They
+                                        provide guidance for entrepreneurs and seek to positively influence the development
+                                        of the industry through policy making. The labs host blockchain summits, forums,
+                                        and alliances, in addition to software platforms, sponsorships, and proofs-of-concept
+                                        services.
+                                    </a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.blockchainlabs.org/index_en.html" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot shanghai-china sbidra" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Shanghai Blockchain Industry Development Research Alliance(SBIDRA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Shanghai, China</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The purpose of the Shanghai Blockchain Industry Development Research Alliance (SBIDRA)
+                                        is to facilitate blockchain research, technological development, personnel training
+                                        and help in coordinate government efforts and blockchain organizations. The Alliance
+                                        acts as a business incubator and a cooperative exchange platform for various enterprises,
+                                        institutions, non-profit organizations and others to promote blockchain research.
+                                        It provides a platform for the Shanghai Municipal Government, relevant departments
+                                        and the whole blockchain industry to promote sharing of resources and knowledge –in
+                                        hopes of providing valuable and high quality research results. The establishment
+                                        of the alliance can effectively strengthen the communication between industry, regulatory
+                                        authorities and other relevant companies, to build a platform for mutual exchange.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot netherlands" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Dutch National Blockchain Coalition</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Netherlands</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Established by the Ministry of Economic Affairs' information technology team, the Dutch
+                                        National Blockchain Coalition initiative aims to unite more than 20 public and private
+                                        organizations including government agencies, universities and private companies from
+                                        financial, logistics and energy sectors. The coalition has an end goal of turning
+                                        the country into a leader of blockchain technology and keeping the Netherlands on
+                                        the forefront of innovative technologies. The coalition focuses on: Development of
+                                        blockchain building blocks called Digital Identities, realizing conditions for the
+                                        use of blockchain, and the development and realization of the Human Capital Agenda.
+                                        Essentially, the coalition tries to create the conditions for reliable and socially
+                                        acceptable blockchain applications.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="https://www.dutchdigitaldelta.nl/en/blockchain" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot new-york wsba" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Wall Street Blockchain Alliance(WSBA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy, local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">150 E 2nd Street Suite 3B New York, NY 10009</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Wall Street Blockchain Alliance’s (WSBA) mission is to guide and promote comprehensive
+                                        adoption of distributed ledger technology across financial markets. They do this
+                                        by engaging with market participants, regulators, policymakers and technology innovators
+                                        through direct communication, comment letters, studies and more to guide the public
+                                        dialogue about blockchain, distributed ledger and smart contract technology, in hopes
+                                        that the financial markets can realize the full potential of these capabilities</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                            <a data-ix="contact-form-pop-up" target="_blank" href="http://www.wsba.co/" class="button w-button" style="transition: all 0.3s ease 0s;">website</a>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot india" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Blockchain and Virtual Currency Association of India</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">India</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Indian Bitcoin companies banded together to form the Blockchain and Virtual Currency
+                                        Association after The Reserve Bank of India cautioned the country about the risks
+                                        associated with Bitcoin and other virtual currencies. The organization’s primary
+                                        objective is to engage with regulators and increase bitcoin awareness and acceptance
+                                        in their country.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot tokyo" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">The Japan Exchange Group&nbsp;(JPX) Blockchain Consortium</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain), PoC testing of blockchain technology</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">〒103-0026 Tōkyō-to, Chūō-ku, Nihonbashikabutochō, ２−1 Japan</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The purpose of the consortium of Japanese financial institutions is to continue proof-of-concept
+                                        (PoC) testing on the Hyperledger framework and to discuss the possibility of applying
+                                        blockchain technology to capital market infrastructure. JPX is cooperating with financial
+                                        institutions and blockchain engineers to make progress in verifying the technology.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot denmark" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">BLOC (Blockchain Labs for Open Collaboration)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">local coordination (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">1411 Copenhagen K. &nbsp;Denmark</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">A community and platform for maritime and energy blockchain based solutions. They are
+                                        network of public and private participants and large talent pools that have come
+                                        together to build end-to-end blockchain solutions that meet common needs and create
+                                        shared value. One of their “labs” includes researching and implementing a blockchain
+                                        single window system in order to simplify border formalities in global trade. Their
+                                        end goal is to transform the maritime industry into an entirely blockchain-based
+                                        system to increase trust, efficiency, privacy and frictionless trade.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot trust-accelerator" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Blockchain Trust Accelerator</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">coordination, incubation (blockchain)</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">740 15th St NW Washington, District of Columbia</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Blockchain Trust Accelerator is committed to advancing Blockchain technology through
+                                        responsible, innovative and cutting edge pilot projects that address civic engagement,
+                                        governance challenges, social good and more. The BTA is a partnership between Bitfury,
+                                        New America and the National Democratic Institute. They connect governments with
+                                        technologists and funders to hasten the adoption of blockchain technology for social
+                                        good and governance.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot australia adcca" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Australian Digital Currency Commerce Association (ADCCA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">regulation, coordination, education</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">PO Box 21122 World Square Sydney NSW 2002 Australia</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The ADCCA is the industry representative body for digital commerce businesses in Australia.
+                                        The ADCCA exists to promote the adoption of Blockchain technology as a means to challenge
+                                        existing business models and drive innovation across multiple industry sectors. The
+                                        organization's founding mandate is to act as the essential connection between digital
+                                        commerce businesses and industries, governments, regulators, academia, financial
+                                        institutions and influential policy forums which give direction to this emerging
+                                        industry at home and abroad. A private sector membership congress, ADCCA's aims include:
+                                        Blockchain technology education &amp; training, Industry standards &amp; code of
+                                        ethics, Promotion and facilitation of digital commerce best practices, Regulatory
+                                        and compliance relationships, Digital currency accounting practices and standards,
+                                        Consumer protection standardization.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot switzerland" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Crypto Valley / Crypto Valley Association</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">incubation</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Zug, Switzerland</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">Crypto Valley is a growing hub for digital currency and blockchain startups in Switzerland.
+                                        The goal is to make Crypto Valley in Zub, Switzerland a global hub for crypto technologies
+                                        modeled on the success of Silicon Valley. Crypto Valley has grown into one of the
+                                        world’s leading ecosystems for crypto, blockchain, and distributed ledger technologies,
+                                        with dozens of companies in this space now calling Crypto Valley home and thriving
+                                        in its vibrant community. The Crypto Valley Association is an independent, government-supported
+                                        association established to take full advantage of Switzerland’s strengths to build
+                                        the world’s leading blockchain and cryptographic technologies ecosystem. It is a
+                                        non-profit aimed at promoting and researching the technology. They support and connect
+                                        startups and established enterprises through policy recommendations, projects across
+                                        verticals, initiating and enabling research, and organizing conferences, hackathons,
+                                        and other industry events.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot tokyo jba" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Japan Blockchain Association (JBA)</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">coordination, education, regulation</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">〒107-0052 Tōkyō-to, Minato-ku, Akasaka, 3 Chome−５−5 Japan</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The group’s primary aims are to: Apply blockchain technology to social infrastructure
+                                        and policy recommendations; Establish guidelines for bitcoin and other digital currency
+                                        exchanges; Facilitate communication between the industry and government departments
+                                        such as the FSA, the Ministry of Economy, Trade and Industry (METI), the Consumer
+                                        Affairs Agency and the National Police Agency and the Tax Bureau, as well as other
+                                        financial and banking industry groups. The Association will also promote and support
+                                        its member businesses, organize promotional events, talk to similar industry groups
+                                        internationally, and communicate with related and similar industry groups. JBA has
+                                        two divisions: one dealing with virtual currency and the other with blockchain technologies
+                                        in general. The former group concerns consumer, tax and financial regulatory issues.
+                                        The latter group concerns definition and policy proposals for non-currency blockchain
+                                        tech. Not only an advocate for blockchain technology, JBA is the point of contact
+                                        for governmental authorities and global associations.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot gbbc-dc" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 right" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Global blockchain business council</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Washington, D.C., USA</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Global Blockchain Business Council (GBBC) brings together global leaders and businesses
+                                        to highlight the latest innovations and advances in Blockchain technology. The GBBC
+                                        is committed to raising awareness of the potential of this groundbreaking technology,
+                                        advocating for it global adoption and providing a forum for education, collaboration,
+                                        dialogue and standardization.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                    <div class="dot-div-block">
+                        <div data-ix="dot-pulse" class="dot gbbc-switzerland" style="transition: all 0.35s ease 0s, transform 500ms ease-in-out; transform: scaleX(1.2) scaleY(1.2);"></div>
+                        <div data-ix="hide-map-info" class="div-block-8 left" style="opacity: 0; display: none;">
+                            <div data-ix="close-map-info" class="close" style="transition: all 0.3s ease 0s;">X</div>
+                            <h4 class="heading-2 map-title">Global blockchain business council</h4>
+                            <div class="divider-horizontal"></div>
+                            <div class="text-block-2">Category:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-dc-map" class="link description" style="transition: all 0.2s ease 0s;">education &amp; advocacy</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Location:</div>
+                            <a href="https://www.gbbcouncil.org/#" data-ix="show-geneva-map" class="link description" style="transition: all 0.2s ease 0s;">Geneva, Switzerland</a>
+                            <div class="spacer"></div>
+                            <div class="text-block-2">Description:</div>
+                            <div class="div-block-22">
+                                <a href="mailto:info@gbbcouncil.org" class="link description">The Global Blockchain Business Council (GBBC) brings together global leaders and businesses
+                                        to highlight the latest innovations and advances in Blockchain technology. The GBBC
+                                        is committed to raising awareness of the potential of this groundbreaking technology,
+                                        advocating for it global adoption and providing a forum for education, collaboration,
+                                        dialogue and standardization.</a>
+                            </div>
+                            <div class="spacer _15"></div>
+                        </div>
+                    </div>
+                </div>
