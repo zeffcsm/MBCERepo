@@ -2171,6 +2171,11 @@
                 background-color: hsla(0, 0%, 76%, .5)
             }
             
+            .nav-link-2:focus {
+                text-decoration: none;
+                color: black;
+            }
+            
             .nav-link-2.w--current {
                 color: #42abff
             }
@@ -2282,6 +2287,10 @@
             .button:hover {
                 background-color: rgba(0, 0, 0, 0.5);
                 color: white;
+            }
+            
+            .a:focus {
+                text-decoration: none;
             }
             
             .button:focus {
@@ -4657,11 +4666,11 @@
                 padding-bottom: 20px;
                 padding-left: 10px;
                 padding-right: 10px;
-                max-width: 400px;
+                max-width: 350px;
             }
             
             .service {
-                min-height: 400px;
+                min-height: 450px;
                 margin-left: 15px;
                 margin-right: 15px;
             }
@@ -4689,4 +4698,8 @@
                 margin-left: 0px;
                 margin-right: 0px;
                 max-width: 100%;
+            }
+            
+            .aboutus {
+                padding-left: 14%;
             }
