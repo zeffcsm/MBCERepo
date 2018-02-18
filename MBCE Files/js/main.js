@@ -48,13 +48,14 @@ $(function() {
 
     //	scrolling animations
 
-    $("#services,#works,#portfolio,#blog,#contact,#mid-section, #goals-section").css('opacity', 0);
+    $("#services,#works,#portfolio,#blog,#contact,#mid-section, #goals-section, #about-us").css('opacity', 0);
 
     //  animate
     $("#services").waypoint(function() { $("#services").addClass('fadeInLeft animated'); }, { offset: '50%' });
 
     $("#mid-section").waypoint(function() { $("#mid-section").addClass('fadeInUp animated'); }, { offset: '50%' });
     $("#goals-section").waypoint(function() { $("#goals-section").addClass('fadeInUp animated'); }, { offset: '50%' });
+    $("#about-us").waypoint(function() { $("#about-us").addClass('fadeInRight animated'); }, { offset: '50%' });
 
 
     $("#works").waypoint(function() { $("#works").addClass('fadeInLeft animated'); }, { offset: '50%' });
