@@ -4793,6 +4793,14 @@
                 min-width: 200px;
                 min-height: 200px;
             }
+            
+            .partners-text-center {
+                padding-top: 40%;
+            }
+            
+            .partners-text-center2 {
+                padding-top: 48%;
+            }
             /* .adv-background {
                 background-color: #696767;
             }
